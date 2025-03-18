@@ -91,3 +91,4 @@ $x_n = x_k - y(x_k)/y^2(x_k)$, где $n = k+1$. То есть мы на гра�
 
 
      
+![](https://github.com/roge111/Optimization-methods/blob/main/Графике%20метода%20кв.jpg?raw=true)
